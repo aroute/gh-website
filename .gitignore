@@ -1,5 +1,6 @@
 /.docusaurus
 /blog
+/docs
 /docusaurus
 /src
 /static
@@ -8,7 +9,7 @@ docusaurus.config.js
 package-lock.json
 package.json
 README.md
-sidebar.js
+sidebars.js
 # Dependencies
 /node_modules
 

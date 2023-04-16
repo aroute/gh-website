@@ -1,6 +1,6 @@
 ---
 slug: /
+position: 1
 ---
 
-# Tutorial Intro
-
+# Hello World

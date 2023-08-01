@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgh_website=self.webpackChunkgh_website||[]).push([[882],{6102:e=>{e.exports=JSON.parse('{"title":"Workshop","description":"MAS Workshop\'s getting started guide.","slug":"/category/workshop","permalink":"/category/workshop","navigation":{"next":{"title":"OCP MAS workshop","permalink":"/"}}}')}}]);
